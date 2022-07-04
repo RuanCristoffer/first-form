@@ -1,5 +1,5 @@
 <h1>Project Form</h1>
-  <p>The project is a form with functionality to receive questions and answers by email and phone. .<br>
+  <p>The project is a simple form with functionality to receive questions and answers by email and phone. <br>
 Project still under improvement, functionality only for web computers.</p>
 <br>
 <h2>technologies used:</h2>
@@ -8,4 +8,4 @@ Project still under improvement, functionality only for web computers.</p>
  </p></li>
   <li><p>CSS  <img align="center" alt="image-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></p></li>
   <br>
-  <img src="https://github.com/RuanCristoffer/Cronometro/blob/master/assets/stopwatch%20web.png" alt="image-stopwatch-web">
+  <img src="https://github.com/RuanCristoffer/first-form/blob/master/assets/image%20form%20web.png">
